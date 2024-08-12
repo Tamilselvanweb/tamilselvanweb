@@ -1,0 +1,235 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.root
+{
+    --bg-color:#FFCA05;
+    --bg-using:#EBEBEB;
+    --bg-inv:#212225;
+    --bg-drak:#1A1B1C;
+    --bg-colors:#5D5D6A;
+    --bg-round:#FFFFFF;
+}
+.img
+{
+    width:100%;
+    height:400px;
+    background-color:#1A1B1C;
+    
+}
+.img-1
+{
+    width:100%;
+    height:150px;
+    background-color:#1A1B1C;
+}
+.img-2
+{
+    width:100%;
+    height:150px;
+    background-color:#1A1B1C;
+}
+.img-3
+{
+    width:100%;
+    height:160px;
+    background-color:#1A1B1C;
+}
+.img-4
+{
+    width:100%;
+    height:120px;
+    background-color: #EBEBEB;
+}
+.img-5
+{
+    width:100%;
+    height:280px;
+    background-color:#EBEBEB;
+}
+.img-6
+{
+  width:100%;
+  height:285px;
+  background-color: #EBEBEB;
+}
+
+.content{
+    width:100%;
+    height:400px;
+    background-color:#EBEBEB;
+}
+.content-1
+{
+    width:100%;
+    height:500px;
+    background-color:white;
+}
+.resume
+{
+   width:100%;
+   height:50px;
+}
+
+.resume-1
+{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:600;
+    font-style:normal;
+    width:300px;
+    background-color: #FFCA05;
+    font-size:30px;
+    text-align: center;
+    letter-spacing:6px;  
+    top:430px;
+    left:110px;  
+}
+
+.resume-2
+{
+    width:100%;
+    height:80px;
+}
+.resume-3
+{
+    border-bottom:4px solid #FFCA05;
+    margin-right:290px;
+    border-radius:20px;
+}
+.resume-5
+{
+    letter-spacing:2px;
+    margin-top:40px;
+}
+.resume-4
+{
+    
+    border-bottom:4px solid #FFCA05;
+    margin-right:290px;
+    border-radius:20px;
+}
+.resume-101
+{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:400;
+    font-style:normal;
+}
+.progress-bar
+{
+    background-color:#FFCA05;
+}
+.resume-6
+{
+    text-align:center;
+    font-size:35px;
+    padding-top:5px;
+}
+.resume-7
+{
+    text-align:center;
+    font-size:35px;
+    padding:5px;
+    height:130px;
+}
+.resume-8
+{
+    font-size:60px;
+    letter-spacing:5px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:600;
+    font-style:normal;
+}
+.resume-9
+{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:600;
+    font-style:normal;
+    width:250px;
+    background-color: #FFCA05;
+    font-size:27px;
+    text-align: center;
+    letter-spacing:7px;  
+}
+.resume-10
+{
+    margin-top:50px;
+    font-size:25px;
+}
+.resume-11
+{
+    border-bottom: 4px solid #FFCA05;
+    border-right:20px;
+    width:55px;
+    border-radius:20px;
+}
+.resume-12
+{
+    font-size:17px;
+    letter-spacing:1px;
+    color:#555555;
+}
+.resume-13
+{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:600;
+    font-style:normal;
+    font-size:27px;
+    margin-top:45px;
+    letter-spacing:2px;
+}
+.resume-14
+{
+    font-size:22px;
+}
+.resume-15
+{
+    width:100px;
+    background-color: #FFCA05;
+}
+.resume-16
+{
+    font-size:15px;
+}
+.resume-17
+{
+    margin-top:60px;
+}
+.resume-18
+{
+    padding-top:80px;
+}
+.resume-19
+{
+    width:55px;
+    border-bottom:4px solid #FFCA05;
+
+}
+@media (max-width: 576px)
+ {
+    .resume-1 {
+        width:200px;
+        font-size: 1.5rem;
+        top: 385px;
+        left:80px;
+    }
+    .resume-18
+    {
+        padding-top:0px;
+    }
+    .content{
+        width:100%;
+        height:500px;
+        background-color:#EBEBEB;
+    }
+    
+
+
+}
